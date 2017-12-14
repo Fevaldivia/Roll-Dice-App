@@ -1,4 +1,4 @@
-# MemeApp-Version-1.0
+# Roll the Dice 
 
 This is a basic app that I contributed on my IOS Developer course in Udacity basically you have 2 dice always with you with this app 
 generating random results to play with your friends
